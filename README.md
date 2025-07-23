@@ -30,8 +30,12 @@ Developed with a focus on organization and reactivity, the project uses practice
 ## 📌 How to run locally
 
 ```bash
-git clone https://github.com/jordanwmp/angular-phonebook.git
+git clone https://github.com/jordan-will/angular-rxjs-phonebook.git
 cd angular-phonebook
 npm install
 ng serves
 ```
+
+## 🌐 Live example
+
+You can access the live ![here](https://jordan-will.github.io/angular-rxjs-phonebook/)
