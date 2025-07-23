@@ -38,4 +38,4 @@ ng serves
 
 ## 🌐 Live example
 
-You can access the live ![here](https://jordan-will.github.io/angular-rxjs-phonebook/)
+You can access the live [here](https://jordan-will.github.io/angular-rxjs-phonebook/)
